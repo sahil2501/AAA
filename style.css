@@ -1,0 +1,17 @@
+#canvas1 {
+    border-color: darkviolet;
+    border-width: 10px;
+    border-style: double;
+    background-image: url("BirthdayImage.jpg");
+    margin-top: 50px;
+}
+body {
+    text-align: center;
+}
+button {
+    font-size: 20px;
+}
+p {
+    font-size: 100px;
+    color: darkviolet;
+}
